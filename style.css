@@ -1,5 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
+   
+
 }
 .top-part{
     display: flex;
@@ -8,7 +10,7 @@ body{
 }
 .half-width{
     width: 50%;
-    padding-left: 40px;
+    padding-left: 20px;
     
 }
 .half-width img{
@@ -53,4 +55,25 @@ text-align: center;
 }
 .mission-item img{
     width: 40%;
+}
+.community{
+    display: flex;
+    margin-top: 10px;
+  
+}
+.community-info{
+    width: 60%;
+    margin-left: 10px;
+    padding-left: 10px;
+}
+.community-img{
+    width: 40%;
+    margin-left: 10px;
+    padding-left: 10px;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.community-img img{
+    width: 80%;
 }
