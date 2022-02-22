@@ -70,10 +70,13 @@ text-align: center;
     width: 40%;
     margin-left: 10px;
     padding-left: 10px;
-    background-image: url(images/shapes/shape-1.png);
-    background-repeat: no-repeat;
-    background-position: right;
 }
 .community-img img{
     width: 80%;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-weight: 100;
 }
